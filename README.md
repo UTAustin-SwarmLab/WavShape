@@ -126,8 +126,8 @@ If you use WavShape in your research, please cite:
 ```
 @inproceedings{wavshape2025,
   title={WavShape: Information-Theoretic Speech Representation Learning for Fair and Privacy-Aware Audio Processing},
-  author={TBD},
-  booktitle={Interspeech 2025},
+  author={Baser, Oguzhan and Tanriverdi, Ahmet E and Kale, Kaan and Chinchali, Sandeep P and Vishwanath, Sriram},
+  booktitle={Proc. Interspeech 2025},
   year={2025}
 }
 ```
